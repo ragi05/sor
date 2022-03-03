@@ -1,0 +1,27 @@
+body {
+  background: linear-gradient(1.25turn, #42C2FF, #ebf8e1, #B8FFF9);
+  background-color: #B8FFF9;
+}
+
+.header {
+  text-align: center;
+  padding-top: 80px;
+  font-family: cursive;
+  color: grey;
+  font-size: 30px;
+}
+.para{
+  text-align: center;
+  padding-top: 40px;
+  font-family: cursive;
+  color: grey;
+  font-size: 25px;
+}
+
+blockquote{
+  text-align: center;
+  padding-top: 40px;
+  font-family: cursive;
+  color: grey;
+  font-size: 20px;
+}
